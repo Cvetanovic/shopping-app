@@ -48,7 +48,7 @@ Clone down this repository. You will need node and npm installed globally on you
 
 ### Demo
 
-Open [Shopping-app]()
+Open [Shopping-app](https://react-shop-app.netlify.app/)
 
 ## License
 
