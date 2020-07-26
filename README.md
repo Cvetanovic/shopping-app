@@ -21,7 +21,7 @@ Project is created with:
 
 Clone down this repository. You will need node and npm installed globally on your machine.
 
-- Installation:
+Installation:
 
 \$ npm install
 
@@ -31,11 +31,11 @@ Clone down this repository. You will need node and npm installed globally on you
 
 \$ npm install react-paypal-express-checkout
 
-- To Start Server:
+To Start Server:
 
  \$ npm start
 
-- To Visit App:
+To Visit App:
 
   localhost:3000/
 
