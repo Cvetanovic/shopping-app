@@ -23,7 +23,7 @@ Clone down this repository. You will need node and npm installed globally on you
 
 - Installation:
 
-  \$ npm install
+\$ npm install
 
 \$ npm install react-router-dom
 
@@ -33,7 +33,7 @@ Clone down this repository. You will need node and npm installed globally on you
 
 - To Start Server:
 
-  \$ npm start
+ \$ npm start
 
 - To Visit App:
 
@@ -50,6 +50,3 @@ Clone down this repository. You will need node and npm installed globally on you
 
 Open [Shopping-app](https://react-shop-app.netlify.app/)
 
-## License
-
-MIT
