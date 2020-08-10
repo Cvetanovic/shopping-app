@@ -7,7 +7,7 @@
 
 ### General info
 
-This project is E-commerce Shopping Aplication
+This project is E-commerce Shopping Application
 
 ### Technologies
 
